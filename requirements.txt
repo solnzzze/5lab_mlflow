@@ -1,7 +1,0 @@
-pandas
-numpy
-scikit-learn
-pyyaml
-mlflow
-dvc
-dvclive
